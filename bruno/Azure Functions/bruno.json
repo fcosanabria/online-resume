@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Azure Functions",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
